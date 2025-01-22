@@ -1,9 +1,9 @@
 # Movie Streaming Site
+# Currently undergoing a complete rewrite in Svelte
 
 # This website is for educational purposes only, I am not distrubuiting these movies, this is just a wrapper for https://moviesapi.club
 
-
-### link to site: https://openstream.thegrass.xyz/
+### link to site: <del>https://openstream.thegrass.xyz/</del> (my domain expired and i dont have enough money to renew it 😢)
 
 A site built in [Reflex](https://reflex.dev) that uses the [MoviesAPI.club](https://moviesapi.club) and the [TMDB](https://www.themoviedb.org/) api for movies streaming of thousands of movies for 100% free.
 
