@@ -1,4 +1,0 @@
-python-dotenv==1.0.1
-reflex-lottiefiles==0.0.2
-reflex-motion==0.0.1
-reflex==0.5.9
